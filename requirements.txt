@@ -1,0 +1,14 @@
+pandas 
+numpy
+matplotlib
+seaborn
+streamlit
+geopandas
+sklearn.linear_model
+io
+folium
+branca
+folium
+requests
+difflib
+streamlit_folium
